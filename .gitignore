@@ -12,9 +12,7 @@
 /build
 
 # misc
-.env
 .DS_Store
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -25,3 +23,4 @@ yarn-error.log*
 apps/OpenSign/public/mfbuild/*
 microfrontends/SignDocuments/build/*
 apps/OpenSignServer/files/files/*
+config.bat
